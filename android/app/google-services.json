@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "617330242189",
+    "project_id": "code-can-1438d",
+    "storage_bucket": "code-can-1438d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617330242189:android:cbe0e0e2a21a1e9e47e8c4",
+        "android_client_info": {
+          "package_name": "com.example.codecansecond"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfxuWnZ5XfLP653hWxRrRMOhGHtlug8mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617330242189:android:01166f44dfffb6f447e8c4",
+        "android_client_info": {
+          "package_name": "com.example.xxxprogect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfxuWnZ5XfLP653hWxRrRMOhGHtlug8mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
